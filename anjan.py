@@ -1,3 +1,3 @@
 a=110
 b=288
-print("sum of 2 numbers,ab)
+print("sum of 2 numbers",a+B)
